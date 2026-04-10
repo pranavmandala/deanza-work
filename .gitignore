@@ -1,3 +1,4 @@
+# C and C++
 # Prerequisites
 *.d
 
@@ -39,3 +40,15 @@
 
 # debug information files
 *.dwo
+
+# MAC OS
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# JAVA 
+# Compiled class files
+*.class
+
+
+
